@@ -3,6 +3,9 @@ body, html {
     width: 100%;
     height: 100%
 }
+body {
+    margin-bottom:$height-footer;
+}
 .vertical-center {
   margin-bottom:7%;
 }
