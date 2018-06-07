@@ -1,0 +1,29 @@
+body, html {
+    background-color: black;
+}
+.vertical-center {
+  margin-top:15%;
+}
+.title {
+    color: white;
+}
+.jumbotron {
+    background-color: rgba(120,120,120,0.3);
+    text-align:center;
+    align-items: center;
+}
+.bbar {
+    margin-top: 30px;
+    padding-top: 15px;
+}
+.bb {
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 75px;
+    width:75px;
+    background-color: rgba(255,255,255,0.65);
+}
+.bb:hover {
+    background-color: rgba(255,255,255,1);
+    border: 1px solid black;
+}
